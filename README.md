@@ -1,2 +1,2 @@
 # http-server
-Http server in Rust [WIP]
+Http server written in Rust [WIP].
